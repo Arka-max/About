@@ -30,11 +30,7 @@
 
 ## 📊 My Github Stats
 
-<p align="center">
-    <a href="https://github.com/Circinusss/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arka Mazumdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arka-maxs&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=Arka-max&theme=radical)
 <br/>
 
 ![demon-slayer-icegif](https://user-images.githubusercontent.com/67253034/179665479-8e288c44-da66-423c-91c2-0ee2e8c54f3b.gif)
