@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arka Mazumdar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![demon-slayer-icegif](https://user-images.githubusercontent.com/67253034/179665275-cb2a0239-e3bc-4a42-b8cd-18cfe89759fb.gif)
 
 
 - 🔭 I’m currently working on [FoodWeb](https://github.com/Arka-max/FoodWeb)
