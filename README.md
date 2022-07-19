@@ -28,10 +28,6 @@
 <a href="https://www.topcoder.com/members/https://www.topcoder.com/members/arka47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://www.topcoder.com/members/arka47" height="30" width="40" /></a>
 </p>
 
-## 📊 My Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=Arka-max&theme=radical)
-<br/>
 
 ![demon-slayer-icegif](https://user-images.githubusercontent.com/67253034/179665479-8e288c44-da66-423c-91c2-0ee2e8c54f3b.gif)
 
