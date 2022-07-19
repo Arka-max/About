@@ -1,7 +1,7 @@
+<img align="center" height=500 width=1500 src=https://c4.wallpaperflare.com/wallpaper/158/122/422/anime-anime-boys-jujutsu-kaisen-yuji-itadori-sakuna-hd-wallpaper-preview.jpg>
+
 <h1 align="center">Hi 👋, I'm Arka Mazumdar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="center" height=500 width=1500 src=https://c4.wallpaperflare.com/wallpaper/158/122/422/anime-anime-boys-jujutsu-kaisen-yuji-itadori-sakuna-hd-wallpaper-preview.jpg>
 
 - 🔭 I’m currently working on [FoodWeb](https://github.com/Arka-max/FoodWeb)
 
@@ -27,6 +27,15 @@
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/arkamazumdar987/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arkamazumdar987/profile" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/https://www.topcoder.com/members/arka47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://www.topcoder.com/members/arka47" height="30" width="40" /></a>
 </p>
+
+## 📊 My Github Stats
+
+<p align="center">
+    <a href="https://github.com/Circinusss/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arka Mazumdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arka-maxs&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<br/>
 
 ![demon-slayer-icegif](https://user-images.githubusercontent.com/67253034/179665479-8e288c44-da66-423c-91c2-0ee2e8c54f3b.gif)
 
