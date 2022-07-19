@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arka Mazumdar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="center" height=800 width=1500 src=https://c4.wallpaperflare.com/wallpaper/158/122/422/anime-anime-boys-jujutsu-kaisen-yuji-itadori-sakuna-hd-wallpaper-preview.jpg>
+<img align="center" height=600 width=1500 src=https://c4.wallpaperflare.com/wallpaper/158/122/422/anime-anime-boys-jujutsu-kaisen-yuji-itadori-sakuna-hd-wallpaper-preview.jpg>
 
 - 🔭 I’m currently working on [FoodWeb](https://github.com/Arka-max/FoodWeb)
 
