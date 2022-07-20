@@ -30,7 +30,7 @@
 </p>
 
 
-<p align="center">![demon-slayer-icegif](https://user-images.githubusercontent.com/67253034/179665479-8e288c44-da66-423c-91c2-0ee2e8c54f3b.gif)</p>
+![demon-slayer-icegif](https://user-images.githubusercontent.com/67253034/179665479-8e288c44-da66-423c-91c2-0ee2e8c54f3b.gif)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arka-max&show_icons=true&locale=en&layout=compact" alt="arka-max" /></p>
 
