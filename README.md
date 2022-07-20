@@ -40,7 +40,7 @@
 <p><a href="https://www.buymeacoffee.com/Arka-max"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arka-max" /></a><a href="https://ko-fi.com/Arka"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Arka" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arka-max&show_icons=true&locale=en&layout=compact" alt="arka-max" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arka-max&show_icons=true&locale=en&layout=compact" alt="arka-max" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arka-max&show_icons=true&locale=en" alt="arka-max" /></p>
 
