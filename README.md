@@ -31,13 +31,15 @@
 <a href="https://www.topcoder.com/members/https://www.topcoder.com/members/arka47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://www.topcoder.com/members/arka47" height="30" width="40" /></a>
 </p>
 
-![demon-slayer-icegif](https://user-images.githubusercontent.com/67253034/179665479-8e288c44-da66-423c-91c2-0ee2e8c54f3b.gif)
+
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arka-max&show_icons=true&locale=en&layout=compact" alt="arka-max" /></p>
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arka-max&show_icons=true&locale=en" alt="arka-max" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arka-max&" alt="arka-max" /></p>
+
+![demon-slayer-icegif](https://user-images.githubusercontent.com/67253034/179665479-8e288c44-da66-423c-91c2-0ee2e8c54f3b.gif)
 
 
 <h3 align="left">Languages and Tools:</h3>
