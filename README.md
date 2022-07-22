@@ -33,11 +33,11 @@
 
 ![demon-slayer-icegif](https://user-images.githubusercontent.com/67253034/179665479-8e288c44-da66-423c-91c2-0ee2e8c54f3b.gif)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arka-max&show_icons=true&locale=en&layout=compact" alt="arka-max" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arka-max&show_icons=true&locale=en&layout=compact" alt="arka-max" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arka-max&show_icons=true&locale=en" alt="arka-max" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arka-max&show_icons=true&locale=en" alt="arka-max" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arka-max&" alt="arka-max" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arka-max&" alt="arka-max" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
